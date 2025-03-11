@@ -11,6 +11,19 @@ Polls Page:
 Recents (Database) Page:
 [(https://github.com/kobycut/PollParty/design/pollPartyRecentsPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyRecentsPage.png) </br>
 
+### ERD Diagram:
+-
+-
+-
+
+
+### Technology Connections:
+-
+-
+-
+
+
+
 ## Problem Statement  
 For groups of people (friends, family, etc.) who enjoy democracy and need to make a quick decision, this project provides a voting system that helps when:  
 - The vote of the group is unclear.  
