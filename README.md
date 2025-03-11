@@ -52,6 +52,6 @@ While the 4-week timeline is ambitious, I will do my best to meet it. If more ti
 
 ## Motivation  
 I am pursuing this project to:  
-- Gain hands-on experience with the technologies I will use during my upcoming **internship**.  
-- Improve my **Vue.js** and full-stack development skills.  
-- Create a useful tool that enhances group decision-making.  
+- Gain hands-on experience with the technologies I will use during my upcoming **internship** while also using what I have learned in CS 452 Databases class.  
+- Improve my database skills as well as my **Vue.js** and full-stack development skills.
+- Create a useful tool that enhances group decision-making.
