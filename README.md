@@ -37,15 +37,15 @@ This project is built using:
 ## Goals & Timeline  
 - **Minimal Viable Product (MVP):** A working framework with core functionality, designed to be easily expandable, within the next **4 weeks**.  
 - **Future Improvements:** Expanding features and refining the user experience beyond the initial release.
-# 3/19
+### 3/19
 - Have a design and plan for the timeline of this project.
-# 3/26
+### 3/26
 - Have AWS and domain up with simple hello world page.
-# 4/2
+### 4/2
 - Layout and framework of the application in place.
-# 4/9
+### 4/9
 - Functionality on some of the pages, database configured and uploaded with recent data on certain topics.
-# 4/16
+### 4/16
 - Functioning minimally with recents (database) page as well as being able to create a poll, vote on a poll, and search the different topics available.
 ## Feasibility of Goals  
 While the 4-week timeline is ambitious, I will do my best to meet it. If more time is needed, I am open to adjusting the schedule to ensure quality.  
