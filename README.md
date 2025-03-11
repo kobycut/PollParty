@@ -1,9 +1,9 @@
-### Poll Party Project  
+# Poll Party Project  
 
-# Purpose
+## Purpose
 A web application built with Javascript, Vue, and other tools that enables users to create polls and have others vote on those polls anonymously. The main purpose of this is to help groups of friends, family, etc. vote on a decision.
 
-# Design
+## Design
 Landing Page:
 [(https://github.com/kobycut/PollParty/design/pollPartyLandingPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyLandingPage.png) </br>
 Polls Page:
