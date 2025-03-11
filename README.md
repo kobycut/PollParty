@@ -3,8 +3,8 @@ A web application built with Javascript, Vue, and other tools that enables users
 
 # Design
 Landing Page:
-[(https://github.com/kobycut/PollParty/design/pollPartyLandingPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyLandingPage.png) \n
+[(https://github.com/kobycut/PollParty/design/pollPartyLandingPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyLandingPage.png) </br>
 Polls Page:
-[(https://github.com/kobycut/PollParty/design/pollPartyPollsPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyPollsPage.png)
+[(https://github.com/kobycut/PollParty/design/pollPartyPollsPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyPollsPage.png) </br>
 Recents (Database) Page:
-[(https://github.com/kobycut/PollParty/design/pollPartyRecentsPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyRecentsPage.png)
+[(https://github.com/kobycut/PollParty/design/pollPartyRecentsPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyRecentsPage.png) </br>
