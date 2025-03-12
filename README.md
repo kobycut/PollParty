@@ -12,9 +12,8 @@ Recents (Database) Page:
 [(https://github.com/kobycut/PollParty/design/pollPartyRecentsPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyRecentsPage.png) </br>
 
 ### ERD Diagram:
--
--
--
+
+[(https://github.com/kobycut/PollParty/design/pollPartyDatabase.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyDatabase.png) </br>
 
 
 ### Technology Connections:
