@@ -12,16 +12,10 @@ Recents (Database) Page:
 [(https://github.com/kobycut/PollParty/design/pollPartyRecentsPage.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyRecentsPage.png) </br>
 
 ### ERD Diagram:
-
 [(https://github.com/kobycut/PollParty/design/pollPartyDatabase.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartyDatabase.png) </br>
 
-
 ### Technology Connections:
--
--
--
-
-
+[(https://github.com/kobycut/PollParty/design/pollPartySystemDiagram.png)](https://github.com/kobycut/PollParty/blob/main/design/pollPartySystemDiagram.png) </br>
 
 ## Problem Statement  
 For groups of people (friends, family, etc.) who enjoy democracy and need to make a quick decision, this project provides a voting system that helps when:  
